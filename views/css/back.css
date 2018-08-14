@@ -1,0 +1,20 @@
+/**
+ * Integral logistics for eCommerce with pickup or fulfillment through Shipit
+ *
+ * @author    Rolige <www.rolige.com>
+ * @copyright 2011-2018 Rolige - All Rights Reserved
+ * @license   Proprietary and confidential
+ */
+
+#module_logo {
+	margin-right: 10px; }
+
+div#wrong_city {
+	margin: 7px 0 0 0; }
+
+div.SHIPIT_SET_VALUE_WIDTH,
+div.SHIPIT_SET_VALUE_HEIGHT,
+div.SHIPIT_SET_VALUE_DEPTH,
+div.SHIPIT_SET_VALUE_WEIGHT,
+div.SHIPIT_IMPACT_PRICE_AMOUNT {
+	display: none; }
